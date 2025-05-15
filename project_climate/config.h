@@ -23,6 +23,6 @@ constexpr uint8_t PIN_DHT_DATA = A2;
 constexpr float  T_LOW_WARN  = 20.0f;  // °C   heater RED (too cold)
 constexpr float  T_LOW_SAFE  = 22.0f;  // °C   heater ORANGE warning
 constexpr float  T_HIGH_WARN = 28.0f;  // °C   cooler GREEN pulse (too hot)
-constexpr float  HUM_LOW = 100.0f;
+constexpr float  HUM_LOW = 95.0f;
 
 #endif
