@@ -8,11 +8,11 @@ project_climate/
 │   ├── project_climate.ino                    
 │   ├── config.h
 │
-│   ├── scheduler/                   ← Your custom scheduler
+│   ├── scheduler/                  
 │   │   ├── schedule.c
 │   │   └── schedule.h
 │
-│   ├── platform/                    ← System-level services
+│   ├── platform/                    
 │   │   ├── timer_util.cpp
 │   │   ├── timer_util.h
 │   │   ├── led_blinky.cpp
